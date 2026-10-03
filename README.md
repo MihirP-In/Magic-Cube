@@ -10,7 +10,7 @@ A Unity technical prototype exploring multiple independent worlds contained with
 
 ## Demo
 
-**[Gameplay Video](Monsphere(physicsEnabled).mp4)**
+**[Gameplay Video](Monsphere(PhysicsEnabled).mp4)**
 
 <p align="center">
   <img src="446.png" alt="Magic Cube" width="400" height="500">
