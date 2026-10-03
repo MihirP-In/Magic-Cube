@@ -10,7 +10,7 @@ A Unity technical prototype exploring multiple independent worlds contained with
 
 ## Demo
 
-**[Gameplay Video]((https://youtube.com/shorts/EJ05u_SSlzw))**
+**[Gameplay Video](https://youtu.be/SUF_NHqmeFM)**
 
 <p align="center">
   <img src="446.png" alt="Magic Cube" width="300" height="500">
